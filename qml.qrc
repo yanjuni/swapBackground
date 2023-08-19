@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Slider.qml</file>
+        <file>qml/WorkZoom.qml</file>
+        <file>glsl/cbk01.frag</file>
+        <file>glsl/cbk02.frag</file>
+    </qresource>
+</RCC>
