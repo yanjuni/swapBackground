@@ -16,6 +16,7 @@ click save.
 pic will be save in root dir PIC.
 
 Change the RGB slider, and each color within the range will be replaced with the background you selected.
+
 there is 3 mask ,you  can use. 
 
 press ctrl + e to lock mask position and size.
