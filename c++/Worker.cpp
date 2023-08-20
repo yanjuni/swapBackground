@@ -1,4 +1,4 @@
-#include <QDir>
+﻿#include <QDir>
 #include <QDebug>
 #include <Windows.h>
 #include <winddi.h>
